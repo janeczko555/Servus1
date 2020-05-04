@@ -1,3 +1,5 @@
+// Jan M, Wojciech B
+
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -23,7 +25,7 @@
 #include "i2c.h"
 #include "tim.h"
 #include "usart.h"
-#include "gpio.h"
+#include "gpio.h" 
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
